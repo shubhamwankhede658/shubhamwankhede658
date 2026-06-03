@@ -1,27 +1,67 @@
-# Hi, I'm Shubham 👋
+<h1 align="center">Hi 👋, I'm Shubham Wankhede</h1>
 
-🚀 Full Stack Developer
+<h3 align="center">
+Full Stack Developer
+</h3>
 
-Building modern web applications with React, Next.js, Node.js and PostgreSQL.
+<p align="center">
+Building modern web applications using React, Next.js, Node.js and PostgreSQL
+</p>
 
-🌱 Currently Learning:
-- Next.js
-- NextAuth
-- Prisma
+---
 
-💼 Looking for:
-- Full Stack Developer Roles
-<!--
-**shubhamwankhede658/shubhamwankhede658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Post Graduate Student
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning Next.js & Advanced Backend Development
+- 🎯 Goal: Land a Full Stack Developer Role
+- ❤️ Love building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 Amazon Clone
+React + JavaScript + Backend Integration
+
+### 💬 Real Time Chat App
+Next.js + Socket.io
+
+### 📋 Task Manager
+Next.js + PostgreSQL
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
+
+[Portfolio](YOUR_PORTFOLIO_LINK)
+
+[Email](mailto:YOUR_EMAIL)
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
