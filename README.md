@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
+🚀 Full Stack Developer
+
+Building modern web applications with React, Next.js, Node.js and PostgreSQL.
+
+🌱 Currently Learning:
+- Next.js
+- NextAuth
+- Prisma
+
+💼 Looking for:
+- Full Stack Developer Roles
 <!--
 **shubhamwankhede658/shubhamwankhede658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
