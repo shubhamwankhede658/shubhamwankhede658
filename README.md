@@ -1,26 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:1F6FEB&section=header"/>
 
 # Hi 👋, I'm Shubham Wankhede
 
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications+using+React%2C+Next.js%2C+Node.js+and+PostgreSQL" />
-
-<br/>
-
-<p>
-Building modern web applications using React, Next.js, Node.js and PostgreSQL
-</p>
-
 </div>
 
 ---
 
-# 🚀 About Me
-
-<div align="center">
+## 🚀 About Me
 
 💻 Full Stack Web Developer
 
@@ -28,42 +18,34 @@ Building modern web applications using React, Next.js, Node.js and PostgreSQL
 
 ❤️ Love building real-world projects
 
-</div>
-
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,postgres,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,postgres,git,github" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
 <a href="mailto:shubhamwankhede658@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F6FEB,100:0D1117&section=footer"/>
