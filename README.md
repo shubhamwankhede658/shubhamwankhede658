@@ -1,67 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shubham Wankhede</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header"/>
 
-<p align="center">
+# Hi 👋, I'm Shubham Wankhede
+
+### Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications+using+React%2C+Next.js%2C+Node.js+and+PostgreSQL" />
+
+<br/>
+
+<p>
 Building modern web applications using React, Next.js, Node.js and PostgreSQL
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Post Graduate Student
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning Next.js & Advanced Backend Development
-- 🎯 Goal: Land a Full Stack Developer Role
-- ❤️ Love building real-world projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+💻 Full Stack Web Developer
 
-</p>
+🌱 Currently learning Next.js & Advanced Backend Development
+
+❤️ Love building real-world projects
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Tech Stack
 
-### 🛒 Amazon Clone
-React + JavaScript + Backend Integration
+<div align="center">
 
-### 💬 Real Time Chat App
-Next.js + Socket.io
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,postgres,git,github&theme=dark" />
 
-### 📋 Task Manager
-Next.js + PostgreSQL
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+<div align="center">
 
-[Portfolio](YOUR_PORTFOLIO_LINK)
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[Email](mailto:YOUR_EMAIL)
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="mailto:shubhamwankhede658@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer"/>
+
+</div>
