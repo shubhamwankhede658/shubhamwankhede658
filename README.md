@@ -1,15 +1,27 @@
-<!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:2563eb&section=header&text=Shubham%20Wankhede&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Shubham%20Wankhede&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Open+to+Software+Engineering+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Open+to+Software+Engineering+Opportunities"/>
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
 </p>
 
 ---
@@ -21,24 +33,23 @@
 
 <a href="https://gitfut.com/shubhamwankhede658">
 <img src="https://gitfut.com/shubhamwankhede658.png" width="210"/>
-
 </a>
 
 </td>
 
 <td>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Electronics Engineering Graduate (2025)
+💻 Full Stack Developer passionate about building scalable and user-focused web applications.
 
-💻 Full Stack Developer passionate about building modern web applications.
+🚀 Experienced in developing real-time applications and full-stack platforms using **React, Next.js, Node.js, Express.js, PostgreSQL and Prisma ORM.**
 
-🧠 Solved **100+ LeetCode** problems.
+⚡ Skilled in building responsive user interfaces, REST APIs, authentication systems, and real-time features.
 
-🚀 Interested in scalable web technologies, backend systems, and clean UI.
+🧠 Solved **100+ LeetCode** problems while strengthening Data Structures & Algorithms.
 
-🤝 Open to Software Engineering opportunities.
+🎯 Open to **Software Engineer**, **Full Stack Developer**, and **Frontend Developer** opportunities.
 
 📍 Mumbai, India
 
@@ -52,29 +63,47 @@
 # 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,prisma,tailwind,git,github,vercel,postman,vscode,npm" />
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shubhamwankhede658">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,100:0ea5e9&section=footer"/>
+---
+
+<p align="center">
+<i>"Building scalable applications one commit at a time."</i>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer"/>
+</p>
