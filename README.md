@@ -1,16 +1,22 @@
-# Hi, I'm Shubham 👋
+<table>
+<tr>
+<td width="250">
 
-## ⚽ GitFut Card
-[![GitFut Card](https://gitfut.com/shubhamwankhede658.png)](https://gitfut.com/shubhamwankhede658)
+<a href="https://gitfut.com/shubhamwankhede658">
+  <img src="https://gitfut.com/shubhamwankhede658.png" width="220" alt="GitFut Card">
+</a>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamwankhede658&show_icons=true&theme=tokyonight)
+</td>
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=shubhamwankhede658&theme=tokyonight)
+<td>
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamwankhede658&layout=compact&theme=tokyonight)
+# Hi 👋 I'm Shubham Wankhede
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamwankhede658&theme=tokyo-night)
+💻 Full Stack Developer (MERN)  
+🚀 Electronics Engineering Graduate  
+🌱 Learning React, Node.js & DevOps  
+📍 Mumbai, India
+
+</td>
+</tr>
+</table>
